@@ -115,4 +115,4 @@ jobs:
         if: "!startsWith(matrix.platform, 'macos')"
         with:
           name: ${{ matrix.platform }} 2
-          path: "D:\a\theseus\theseus\target\release\bundle\nsis\Modrinth App_0.7.2_x64-setup.exe"
+          path: "D:\\a\\theseus\\theseus\\target\\release\\bundle\\nsis\\Modrinth App_0.7.2_x64-setup.exe"
